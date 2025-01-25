@@ -10,8 +10,6 @@ Welcome, aspiring players!  This section equips you with the knowledge to craft 
 - ⏫ **[Upgrade Players](https://github.com/doublesync/trc-wiki/wiki/Upgrade-Players)**
 
 ## 📄 **Resource Pages**
-- 📅 **[Season Flow](https://github.com/doublesync/trc-wiki/wiki/Season-Flow)**
-
 For a deeper dive into specific aspects, explore our comprehensive resources.
 
-- These will be added as we go.
+- 📅 **[Season Flow](https://github.com/doublesync/trc-wiki/wiki/Season-Flow)**
