@@ -25,13 +25,13 @@ Let's delve into the physical aspects that define your player.
 
 ## 💎 Anomalies
 
-Each player has a **1.5%** chance to transform into an anomaly upon creation.
-
 ### Benefits
 
 * **Growth Spurt:** A random height boost between 1 to 3 inches.
 * **Extra Cash:**  Anomalies start with a 30% increase in starting currency.
 * **Physical Boost:** Physical attributes will be increased randomly by 5 to 10 points.
+
+> Each player has a **1.5%** chance to transform into an anomaly upon creation.
 
 ## 🚫 Height Limits
 
