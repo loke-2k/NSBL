@@ -5,8 +5,8 @@
 Our league has simple standards.
 
 ## ⚙ Settings
-- Eighteen games.
 - No conferences.
+- Eighteen games.
 - Five games series-setup in the playoffs.
 - Six total playoff teams with seeds 5 and 6 decided by the **Play-In Tournament.**
 
