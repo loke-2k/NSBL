@@ -17,18 +17,18 @@ Our league has simple standards.
 ## 🤔 What is the Play-In Tournament?
 
 1. **Five Seed Game:**
-    - 5 seed versus the 6 seed.
-    - Winner receives the 5 seed.
-    - Loser has another chance in the 6 seed game.
+    - **Five Seed** versus the **Six Seed**.
+    - Winner receives the **Five Seed.**
+    - Loser has another chance in the **Six Seed** game.
 
 2. **Six Seed Game - Qualifier:** 
-    - 7 seed versus the 8 seed.
-    - Winner moves on to the 6 seed game (playing the loser of the 5 seed game).
+    - **Seven Seed** versus the **Eight Seed**.
+    - Winner moves on to the **Six Seed Game** (playing the loser of the **Five Seed Game**).
     - Loser is eliminated from playoff contention.
 
-4. **Six Seed Game:** The winner of the loser's bracket game earns the final playoff spot as the 6th seed. 
+4. **Six Seed Game:**
     - Loser of the **Five Seed Game** versus the winner of the **Six Seed Game - Qualifier.**
-    - Winner receives the 6 seed.
+    - Winner receives the **Six Seed.**
     - Loser is eliminated from playoff contention.
 
 ## 🎮 Game Settings
