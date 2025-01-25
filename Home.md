@@ -6,7 +6,7 @@ Welcome, aspiring players!  This section equips you with the knowledge to craft 
 
 ## 👋 **Get Started**
 
-- 📦 **[Creating Players### ](https://github.com/doublesync/trc-wiki/wiki/Creation)**
+- 📦 **[Creating Players](https://github.com/doublesync/trc-wiki/wiki/Creation)**
 
 ## 📄 **Resource Pages**
 
