@@ -51,5 +51,5 @@ All new players will be required to play a mandatory year in the Surge before jo
 ## 😃 Ready To Go?
 - Make sure you've created an account on our [website.](https://rcup.live)
 - Head over to the [create player page](https://rcup.live/players/create-player/) and create a player.
-- Learn how to upgrade your player [here.](https://github.com/doublesync/trc-wiki/wiki/Upgrading-Players)
+- Learn how to upgrade your player [here.](https://github.com/doublesync/trc-wiki/wiki/Upgrade-Players)
 - Create a support ticket in the Discord server for further help.
