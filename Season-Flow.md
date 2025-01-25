@@ -12,7 +12,7 @@ Our league has simple standards.
 ## 📅 Deadlines
 
 - All-Star Weekend after **Week 13**.
-- All deadlines (trade, signing, call-up) after **Week 13**.
+- All deadlines (trade, signing, call-up) after **Week 14**.
 
 ## 🤔 What is the Play-In Tournament?
 
