@@ -4,9 +4,9 @@
 
 Welcome, aspiring players!  This section equips you with the knowledge to craft your future superstar.
 
-## 👋 **Getting Started**
+## 👋 **Get Started**
 
-* **[🧔 Create Player](https://github.com/doublesync/trc-wiki/wiki/Creation):** Learn how to create a player.
+- 📦 **[Creating Players### ](https://github.com/doublesync/trc-wiki/wiki/Creation)**
 
 ## 📄 **Resource Pages**
 
