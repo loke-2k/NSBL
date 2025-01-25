@@ -1,6 +1,6 @@
 ![A basketball player animation.](https://i.imgur.com/KNIToZb.png)
 
-## 💻 Create Player
+## 💻 Create Players
 Go to our website by clicking [here](https://rcup.live/) and make sure you have an account before you start this tutorial.
 
 * **🖐 Player Choice:** Choose your first name, last name, position, college background, and country. However... height, weight, and wingspan are random based on your player's position.
