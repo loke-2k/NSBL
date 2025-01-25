@@ -4,7 +4,7 @@
 Upgrading is simple but different than other simulation leagues.
 
 ## 💻 Tutorial
-[Haven't created a player?](https://github.com/doublesync/trc-wiki/wiki/Creation)
+[Haven't created a player?](https://github.com/doublesync/trc-wiki/wiki/Create-Players)
 - Go to our website by clicking [here.](https://rcup.live)
 - Click on your created player's name. [Image](https://i.imgur.com/VLiQgAF.png)
 - Click on the shopping carter icon while on the player page. [Image](https://i.imgur.com/bxsr2UN.png)
