@@ -1,9 +1,9 @@
 ![Deion Johnson raving about himself.](https://i.imgur.com/RDP1YiL.png)
 
-# Job Rules
+# Employment Rules
 - A player can earn a maximum of 3,000 SP per season.
 
-# Media Grades
+# Content Grades
 Some media jobs pay based on how well pieces are curated.
 - **Excellent:** 100 SP + XP equivalent.
 - **Good**: 80 SP + XP equivalent.
@@ -11,7 +11,7 @@ Some media jobs pay based on how well pieces are curated.
 
 > Up to 50 SP in bonuses can be given (for each piece).
 
-# Media Jobs
+# Job Opportunities
 These are jobs that will pay you SP to complete (to purchase attributes, and badges).
 
 - **Board Member**: Oversees league flow.
@@ -35,6 +35,13 @@ These are jobs that will pay you SP to complete (to purchase attributes, and bad
     - 150 SP/week.
 - **Surge Manager**: Manages a surge team.
     - 150 SP/week.
+
+# Quality Employees
+Starting in **Season 6**, employees who creates quality pieces of media will be invited to the Quality channel.
+- 250 SP/week + XP equivalent.
+- Additional SP + XP based on grade for each media piece.
+
+> Quality employees must make atleast three quality pieces of media each week; they will be released after two weeks of missing this mark.
 
 # Paid Purchases
 - Go to our [home page](https://rcup.live), then click **Shop Paid Items** to see what you can buy with real currency.
