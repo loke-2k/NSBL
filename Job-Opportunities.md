@@ -1,4 +1,4 @@
-![LeBron banner](https://i.imgur.com/RDP1YiL.png)
+![Deion Johnson raving about himself.](https://i.imgur.com/RDP1YiL.png)
 
 # Job Rules
 - A player can earn a maximum of 3,000 SP per season.
