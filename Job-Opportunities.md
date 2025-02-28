@@ -32,9 +32,9 @@ These are jobs that will pay you SP to complete (to purchase attributes, and bad
 - **Job Leader**: Leads media channels and decides onp ay.
     - 200 SP/week + XP equivalent.
 - **League Manager**: Manages a main league team.
-    - 150 SP/week.
+    - 150 SP/week + XP equivalent.
 - **Surge Manager**: Manages a surge team.
-    - 150 SP/week.
+    - 150 SP/week + XP equivalent.
 
 # Quality Employees
 Starting in **Season 6**, employees who creates quality pieces of media will be invited to the Quality channel.
