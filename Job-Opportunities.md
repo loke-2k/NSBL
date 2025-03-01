@@ -17,11 +17,10 @@ These are jobs that will pay you SP to complete (to purchase attributes, and bad
 - **Board Member**: Oversees league flow.
 - **Streamer**: Streams league games.
     - 55 SP/stream + XP equivalent
-    
     > Bonuses will be given to the top three streamers at the end of the season.
 - **Editor**: Updates the roster.
     - 10 SP/automatic upgrade batch + XP equivalent.
-    - 25 SP/manual upgrade batch + XP equivalent.
+    - 3 SP/manual upgrade + XP equivalent.
     - 50 SP/created player + XP equivalent.
 - **Statistics Inputter**: Logs box score statistics.
     - 30 SP/game + XP equivalent.
