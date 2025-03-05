@@ -9,7 +9,7 @@ Some media jobs pay based on how well pieces are curated.
 - **Good**: 80 SP + XP equivalent.
 - **Decent**: 50 SP + XP equivalent.
 
-> Up to 50 SP in bonuses can be given (for each piece).
+> The above is an example of a grading system you can use; up to 50SP in bonuses can be given on each piece.
 
 # Job Opportunities
 These are jobs that will pay you SP to complete (to purchase attributes, and badges).
