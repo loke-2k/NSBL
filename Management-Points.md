@@ -54,6 +54,8 @@ Revenue is a key factor in managerial success. Each team’s revenue rating (1 t
 
 For example, a **manager with 3 stars in revenue** will gain or lose **6 MP** based on their revenue performance. A **5-star manager** could see a swing of **10 MP**, making financial success a crucial aspect of team management.
 
+> Revenue is just one of the many star systems. However, they all follow this same system.
+
 ---
 
 ## **Why This System Matters**
