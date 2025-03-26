@@ -19,7 +19,7 @@ Success on the court directly affects a manager's MP. Each game and postseason a
 | **Finals Appearance (FA)** | +10 points |
 | **Championship Win (CW)** | +25 points |
 | **Losing Season (LS)** *(negative win-loss record)* | -10 points |
-| **Swept in Playoffs (SP)** *(lost series 0-3 or 0-5)* | -5 points |
+| **Swept in Playoffs (SP)** *(lost series 0-3)* | -5 points |
 | **Missed Playoffs (MPL)** | -10 points |
 
 ---
